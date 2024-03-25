@@ -9,7 +9,4 @@ source("https://mscottodivettimo.github.io/files/scrapeu/scRapEU.R")
 
 A note will appear to acknowledge the successful execution of the code, and will give you more information on how to use the web scraper. Additional information such as a documentation and a minimal report on the data that could be scraped is available at https://mscottodivettimo.github.io/project/scrapeu/.
 
-The raw code is publicly accessible and free to download, adapt, and use. However, I would be grateful if you could acknowledge the use of the original code as follows: 
-
-[ADD CITATION]
-
+The raw code is publicly accessible and free to download, adapt, and use. However, I would be grateful if you could acknowledge the use of the original code.
