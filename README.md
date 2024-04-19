@@ -10,7 +10,7 @@ The scraper can be accessed directly from the R workspace.
 To use the function, make sure that the following R packages are installed and updated: `rvest`, `stringr`, `rlang`, `plyr`, `dplyr`, and `modelr`. 
 To import the latest version of the function in your R workspace, run the following line of code:
 
-`source("https://mscottodivettimo.github.io/files/scrapeu/scRapEU.R")`
+`source("https://mscottodivettimo.github.io/scrapeu/scRapEU.R")`
 
 A note will appear to acknowledge the successful execution of the code, and will give you more information on how to use the web scraper. 
 
